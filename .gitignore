@@ -1,0 +1,6 @@
+KSLib/
+*.ks~
+*.swp
+lib_*.ks
+spec_char.ksm
+
